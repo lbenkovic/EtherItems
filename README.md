@@ -2,10 +2,11 @@
 
 ## Projektni zadatak iz kolegija Blockchain Aplikacije
 ---
-## Fakultet informatiki u Puli
+## Fakultet informatike u Puli
 ### Student: Luka Benković
 ### Kolegij: Blockchain Aplikacije
 ### Mentor: doc. dr. sc. Nikola Tanković
 ### Studij: Sveučilišni diplomski studij Informatika
 ---
-### Dokumentacija: 
+### Dokumentacija: [EtherItems](./etheritems.pdf)
+### Video prezentacija: 
