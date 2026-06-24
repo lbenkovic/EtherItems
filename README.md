@@ -9,4 +9,4 @@
 ### Studij: Sveučilišni diplomski studij Informatika
 ---
 ### Dokumentacija: [EtherItems](https://github.com/lbenkovic/EtherItems/blob/main/etheritems.pdf)
-### Video prezentacija: 
+### Video prezentacija: [YT Video](https://youtu.be/roWxIcZFITU)
