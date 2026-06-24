@@ -8,5 +8,5 @@
 ### Mentor: doc. dr. sc. Nikola Tanković
 ### Studij: Sveučilišni diplomski studij Informatika
 ---
-### Dokumentacija: [EtherItems](./etheritems.pdf)
+### Dokumentacija: [EtherItems](./etheritems.pdf?raw=true)
 ### Video prezentacija: 
